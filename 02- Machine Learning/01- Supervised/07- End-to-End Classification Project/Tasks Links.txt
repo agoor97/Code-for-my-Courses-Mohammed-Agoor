@@ -1,0 +1,7 @@
+Tasks:
+*******
+1. Houses Prices Regression in Hyderabad
+https://www.kaggle.com/datasets/ruchi798/housing-prices-in-metropolitan-areas-of-india?select=Hyderabad.csv
+
+2. Teleco Customer Churn -- Kaggle
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=dateRun&tab=profile

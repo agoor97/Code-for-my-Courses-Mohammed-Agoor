@@ -1,0 +1,16 @@
+Create the Procfile
+web: gunicorn router:app
+
+-------------------------------------------------
+Push your code to git
+
+-------------------------------------------------
+
+For Heroku:
+heroku login
+
+heroku create APP_NAME
+heroku git:remote -a APP_NAME
+git push heroku main
+
+-------------------------------------------------

@@ -1,0 +1,5 @@
+flask==2.1.2
+seaborn==0.11.2
+sklearn==0.0
+sklearn_features==0.0.2
+xgboost==1.6.1

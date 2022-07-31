@@ -1,0 +1,28 @@
+Create Enviroment:
+	conda create --name ENV_Name     
+
+
+Check avilabel Enviroment:
+	conda info --envs
+	conda env list
+
+
+Delete Enviroment:
+	conda remove --name ENV_NAME --all
+		--OR--
+	conda env remove --name ENV_NAME 
+		
+-------------------------------------------------------------
+
+Tool to package the Libraries to requirements.txt:
+	pip install pipreqs
+	pipreqs --encoding=utf8 --force                          at the folder of your project
+	--AND--
+	pip install pip-chill
+	pip-chill > requirements.txt
+-------------------------------------------------------------
+
+While ceating new Env without having python, why?
+	https://stackoverflow.com/questions/62061533/new-conda-environment-is-created-without-python
+
+-------------------------------------------------------------
