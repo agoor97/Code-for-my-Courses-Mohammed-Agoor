@@ -1,7 +1,7 @@
 ## Code-for-my-Courses-Mohammed-Agoor
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-### `This Repository is only for personal learning, please DON'T use it for any other reasons or you will be guilty.`
+### `This Repository collects all my materials for all my courses and will continuously be updated.`
 -----------------------------
 
 ### This Repository collect all my materials for all of my coures (by Eng: Mohammed Agoor).
