@@ -8,7 +8,7 @@
 ### It will always be updated (Star & Fork)
 -----------------------------
 
-<h3 align="left">Portfolio & Profiles</h3>
+<h3 align="left">Portfolio & Profiles:</h3>
 <a href="https://mohammed-agoor.herokuapp.com/">
 <img align="left" alt="site" src="https://www.kindpng.com/picc/m/20-204227_website-search-logo-png-transparent-png.png" width="32" height="32">
 </a>
