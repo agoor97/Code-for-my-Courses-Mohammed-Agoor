@@ -4,8 +4,8 @@
 ### `This Repository collects all my materials for all my courses and will continuously be updated.`
 -----------------------------
 
-### This Repository collect all my materials for all of my coures (by Eng: Mohammed Agoor).
-### It will always be updated (Star & Fork)
+### 💡💡 This Repository collect all my code materials for all of my coures (by Eng: Mohammed Agoor).
+### ✔️✔️ It will always be updated (Star & Fork) ✔️✔️
 -----------------------------
 
 <h3 align="left">Portfolio & Profiles:</h3>
