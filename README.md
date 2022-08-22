@@ -1,7 +1,7 @@
 ## Code-for-my-Courses-Mohammed-Agoor
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-### `This Repository collects all my materials for all my courses and will continuously be updated.`
+### `This Repository collects all my code materials for all my courses and will continuously be updated.`
 -----------------------------
 
 ### 💡💡 This Repository collect all my code materials for all of my coures (by Eng: Mohammed Agoor).
